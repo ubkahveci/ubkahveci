@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ubkahveci
 - 👀 I’m interested in machine learning algorithms
-- 🌱 I’m currently learning to forecast wind energy productions in long-term and web development using Flask
+- 🌱 I’m currently developing machine learning algorithms to forecast wind energy productions in long-term and currently learning web development using Flask
 - 💞️ I’m looking to collaborate on any open source projects that use Python
 - 📫 You can reach me by sending an email to >>> ugurkahveci15@gmail.com 
 
